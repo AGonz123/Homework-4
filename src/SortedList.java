@@ -1,4 +1,7 @@
-
+/*
+ * Implements the SortedListInterface
+ * using Previous ListInterface
+ */
 public class SortedList<T extends Comparable<? super T>> extends SinglyLinkedList<T> implements SortedListInterface<T> {
 
     /**
