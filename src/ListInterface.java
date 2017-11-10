@@ -6,12 +6,12 @@
 
 /**
  *
- * @author Lil' Memesto
+ * @author Andrew Gonzales
  */
 
   
  //*An interface for the ADT list.
- //@author
+ //@author Andrew Gonzales
  //@version 1.0
  //*/
 public interface ListInterface<T> {
