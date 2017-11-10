@@ -1,17 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author Andrew Gonzales
- */
-/**
- * Implements the ListInterface
- * using singly linked list
- */
 public class SinglyLinkedList<T> implements ListInterface<T> {
 
     protected Node<T> first;
