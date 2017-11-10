@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Lil' Memesto
+ * @author Andrew Gonzales
  */
 /**
  * Implements the ListInterface
