@@ -1,18 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author Andrew Gonzales
- */
-/**
- * Implements the SortedListInterface
- * and extends the SinglyLinkedList
- * Elements are added to list in ascending order
- */
 public class SortedList<T extends Comparable<? super T>> extends SinglyLinkedList<T> implements SortedListInterface<T> {
 
     /**
