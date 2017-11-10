@@ -1,4 +1,7 @@
-
+/*
+ * Implements the ListInterface
+ * using Singly linked list
+ */
 public class SinglyLinkedList<T> implements ListInterface<T> {
 
     protected Node<T> first;
